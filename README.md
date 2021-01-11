@@ -1,4 +1,4 @@
-# Codenception.DesicionTrees
+# Codenception Desicion Trees
 A suggestion system, in C# with decision trees
 
 🚧 Work in progress. It can't be used yet! 🚧
